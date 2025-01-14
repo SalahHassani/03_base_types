@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In order to be able to authenticate in NIX GitLab Package Registry for PPP and get the artifacts needed for completing assignments do the following:
 1. Create `${HOME}/.m2/settings.xml` file
 2. Add the following to the newly created file:
@@ -43,3 +44,6 @@ Downloaded from gitlab-maven: https://gitlab.nixdev.co/api/v4/groups/446/-/packa
 [INFO] BUILD SUCCESS
 ```
 
+=======
+# 03_base_types
+>>>>>>> f719f15ed8b0f2889b43f28a32d6c753ac05d535
